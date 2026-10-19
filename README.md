@@ -51,7 +51,7 @@ Ensure you have [Node.js](https://nodejs.org/) (v18 or higher) installed.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/netflix-clone.git
+   git clone https://github.com/poly-30/netflix-clone.git
    cd netflix-clone
    ```
 
