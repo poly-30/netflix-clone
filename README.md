@@ -2,6 +2,10 @@
 
 A modern, high-performance Netflix streaming web client featuring seamless HLS video playback, dynamic catalog browsing, TMDB API integration, and self-hosted Jellyfin media server connectivity.
 
+[![Deploy to GitHub Pages](https://github.com/poly-30/netflix-clone/actions/workflows/deploy.yml/badge.svg)](https://github.com/poly-30/netflix-clone/actions/workflows/deploy.yml)
+
+🌐 **Live Demo**: [https://poly-30.github.io/netflix-clone/](https://poly-30.github.io/netflix-clone/)
+
 ![Netflix Clone Preview](src/assets/hero.png)
 
 ---
